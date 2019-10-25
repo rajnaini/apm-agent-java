@@ -18,6 +18,7 @@
         <module>spring-boot-2</module>
         <module>soap-test</module>
         <module>cdi-app</module>
+        <module>spring-webflux</module>
     </modules>
     <properties>
         <maven-deploy-plugin.skip>true</maven-deploy-plugin.skip>
